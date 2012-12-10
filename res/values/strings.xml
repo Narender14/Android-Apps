@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IcollegeActivity!</string>
+     <string name="plus">+</string>
+      <string name="minus">-</string>
+       <string name="street">Street View</string>
+        <string name="satellite">Satellite View</string>
+    <string name="app_name">Icollege</string>
+     <string name="view"><u><i>Welcome</i></u></string>
+    <string name="text">Go</string>
+    <color name="green">#0000FF</color>
+     <color name="red">#006400</color>
+
+</resources>

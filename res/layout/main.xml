@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.google.android.maps.MapView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mapView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:apiKey="0BrA5Jrnxr3qtRH2AhgOkZk8J7euRaA9I7zQEkA"
+    
+	/>
+    
+   
+     <TableRow
+       
+        android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+        android:layout_marginTop="10dp"
+         >
+        
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:text="@string/plus"
+            android:textColor="@color/green"
+            android:clickable="true"
+            android:onClick="onPlus"
+            />
+        
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:text="@string/minus"
+            android:textColor="@color/green"
+            android:clickable="true"
+              android:onClick="onMinus"
+            
+            />
+        
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+           android:text="@string/street"
+           android:textColor="@color/green"
+           android:clickable="true"
+            android:onClick="onStreet"
+            />
+        
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textColor="@color/green"
+            android:text="@string/satellite"
+            android:clickable="true"
+            android:onClick="onSatellite"
+            />
+        
+     </TableRow>
+    
+</RelativeLayout>
