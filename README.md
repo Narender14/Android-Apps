@@ -8,7 +8,7 @@ On tapping the Overlays(small ballons on the Google maps), it shows the name and
 
 It has zoom-in, zoom-out, map-view and satellite-view options.
 
-
+![ScreenShot](https://raw.github.com/Narender14/Android-Apps/master/College 2.png)
 
 
 
