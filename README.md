@@ -38,8 +38,7 @@ Currently it only suppport 4 institute. It can be extended further. Any idea, bu
 
     Simply fork the repo and clone it to your local machine and start contributing.
 
-
-
+A tutorial on [How to contribute to a Project on GitHub.](http://www.lornajane.net/posts/2010/contributing-to-projects-on-github/)
 
 
 
