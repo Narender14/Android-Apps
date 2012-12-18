@@ -28,7 +28,7 @@ Usage (user) :
 Usage (developer) :
 -------------------
 
-Download and import this project to your workspace. It has many files corresponding to Activity and Database.
+Download and import this project to your workspace. You can then edit it and can contribute it.
 
 
 Contribution :
